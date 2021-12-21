@@ -1,0 +1,15 @@
+[0m2021.12.17 08:57:16 INFO  Started: Metals version 0.10.9 in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/gif-expert-app' for client Visual Studio Code 1.62.2.[0m
+[0m2021.12.17 08:57:17 INFO  time: initialize in 1s[0m
+[0m2021.12.17 08:57:18 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.17 08:57:18 WARN  no build tool detected in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/gif-expert-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.18 07:31:38 INFO  shutting down Metals[0m
+[0m2021.12.20 11:11:29 INFO  Started: Metals version 0.10.9 in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/gif-expert-app' for client Visual Studio Code 1.62.2.[0m
+[0m2021.12.20 11:11:33 INFO  time: initialize in 4.03s[0m
+[0m2021.12.20 11:11:40 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.20 11:11:40 WARN  no build tool detected in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/gif-expert-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+[0m2021.12.21 11:19:03 INFO  Started: Metals version 0.10.9 in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/gif-expert-app' for client Visual Studio Code 1.62.2.[0m
+[0m2021.12.21 11:19:06 INFO  time: initialize in 2.82s[0m
+[0m2021.12.21 11:19:11 WARN  Build server is not auto-connectable.[0m
+[0m2021.12.21 11:19:11 WARN  no build tool detected in workspace '/home/marialejandra/InitG/Ejercicios InitGrammers/gif-expert-app'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. [0m
+Dec 21, 2021 11:50:14 AM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
